@@ -1,0 +1,39 @@
+I’m pleased to share my Meta Ad Performance Analysis project developed in Microsoft Power BI, designed to provide campaign-level visibility and actionable insights for digital advertising teams.
+
+Project overview
+
+Developed an interactive dashboard to track impressions, clicks, engagements, conversions, and spend across campaigns, ad types, and audience segments (age, gender, country).
+
+Implemented granular time and event-level analysis (day of week, week number, time of day) to identify peak engagement windows and conversion patterns.
+
+Created a semantic data model linking campaigns, ads, users, and ad events for flexible slicing and drill-through analysis.
+
+Key metrics surfaced
+
+Impressions: 57.2K • Clicks: 6.8K • Engagements: 7.8K
+
+Shares: 344 • Comments: 699 • Purchases: 335
+
+CTR: 11.88% • Engagement Rate: 13.70% • Conversion Rate: 4.93%
+
+Total Budget: $2.5M • Avg Budget per Campaign: $50.7K
+
+Tools & techniques
+
+Power BI: report design, bookmarks, slicers, maps, and KPI tiles
+
+Power Query: ETL, timestamp parsing, and event unification
+
+Data modeling: star schema linking campaigns, ads, users, ad_events, and calendar table
+
+DAX: calculated measures for CTR, conversion/purchase rate, and engagement metrics
+
+Analysis: cohort/time-series, audience segmentation, campaign & ad-type performance tables
+
+Impact / Use cases
+
+Prioritized campaigns and ad formats by ROAS-style signals (engagement → conversion)
+
+Identified high-converting days/times and top-performing audience segments for budget reallocation
+
+Enabled stakeholders to run ad-level diagnostics and make evidence-based strategic decisions
